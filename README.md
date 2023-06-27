@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://brunobiano.github.io/Notification-Page-with-React.TypeScript/)
+- Solution URL: [Click here for the solution](https://brunobiano.github.io/Notification-Page-with-React.TypeScript/)
 
 ## My process
 
